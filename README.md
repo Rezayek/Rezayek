@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter and Game Dev with Unity**
 
-- 📫 How to reach me **abderrazek7172000@gmail.com** or **https://www.linkedin.com/in/abderrazek-ben-cheikh-souguir-803743233/**
+- 📫 How to reach me **abderrazek7172000@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
