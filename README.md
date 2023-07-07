@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezayek&label=Profile%20views&color=0e75b6&style=flat" alt="rezayek" /> </p>
 
-- 🔭 I’m currently working on [WebNovel App](https://github.com/Rezayek/MiniProject-WebNovel)
+- 🔭 I’m currently working on [My Game Enigma's Echo](https://github.com/Rezayek/Enigmas_echo/tree/main)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **More Tensorflow**
 
-- 💬 Ask me about **Flutter and Game Dev**
+- 💬 Ask me about **Flutter and Game Dev with Unity**
 
-- 📫 How to reach me **abderrazek7172000@gmail.com**
+- 📫 How to reach me **abderrazek7172000@gmail.com** or **https://www.linkedin.com/in/abderrazek-ben-cheikh-souguir-803743233/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
