@@ -8,11 +8,29 @@
 
 ## 👨‍💻 About Me
 
-- 🎮 Working on my game project [**Enigma's Echo**](https://github.com/Rezayek/Enigmas_echo/tree/main)
-- 🧠 Currently expanding my knowledge in **TensorFlow** and **Machine Learning**
-- 💻 Passionate about **Game Development** and **Cross-Platform Applications**
-- 📱 Ask me about **Flutter** and **Unity Game Development**
-- 🌟 Always looking to collaborate on innovative projects
+- 💼 Currently working as a **Software Engineer** at **Kosmos Technologies**
+- 🧠 Currently expanding my knowledge in **Agents** and **MCPs implementations**
+- 💻 Passionate about **Game Development**
+- 📱 Ask me about **Flutter**, **Unity Game Development**, **AI Agents**,
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rezayek&theme=nord&column=7&no-frame=true" alt="trophy"/>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=rezayek&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezayek&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezayek&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ## 🔭 Projects
 
@@ -53,6 +71,17 @@ A mystery adventure game built with Unity that challenges players with puzzles a
 </details>
 
 <details>
+<summary>AI & Automation</summary>
+<br>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/crewAI-4285F4?style=for-the-badge&logo=ai&logoColor=white" alt="crewAI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Automation-00C7B7?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+</p>
+</details>
+
+<details>
 <summary>Databases</summary>
 <br>
 <p align="left">
@@ -75,36 +104,11 @@ A mystery adventure game built with Unity that challenges players with puzzles a
 </p>
 </details>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezayek&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezayek&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezayek&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<!-- You could add a trophy showcase section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rezayek&theme=nord&column=7" alt="trophy"/>
-</div>
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/rezayeksouguir" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://www.linkedin.com/in/abderrazek-ben-cheikh-souguir-803743233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/rezayekess2000/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:abderrazek7172000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
