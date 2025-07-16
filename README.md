@@ -75,8 +75,10 @@ A mystery adventure game built with Unity that challenges players with puzzles a
 <br>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/crewAI-4285F4?style=for-the-badge&logo=ai&logoColor=white" alt="crewAI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Automation-00C7B7?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge&logo=integromat&logoColor=white" alt="Make.com"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
 </p>
 </details>
